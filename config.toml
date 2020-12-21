@@ -1,0 +1,30 @@
+baseURL = "http://denis.kolomeetz.com/"
+languageCode = "en-us"
+title = "Home"
+theme = "ananke"
+
+SectionPagesMenu = "main"
+
+
+[params]
+  favicon = ""
+  site_logo = ""
+  description = "The last theme you'll ever need. Maybe."
+  facebook = ""
+  twitter = ""
+  instagram = ""
+  youtube = ""
+  github = "https://github.com/Densikl"
+  gitlab = ""
+  linkedin = ""
+  mastodon = ""
+  slack = ""
+  stackoverflow = ""
+  rss = ""
+  
+  background_color_class = "bg-black"
+  featured_image = ""
+  recent_posts_number = 3
+
+[[menu.main]]
+
